@@ -1,0 +1,2 @@
+# gumuss
+seckin gumus
